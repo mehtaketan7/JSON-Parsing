@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, JSON_DEMOActivity!</string>
+    <string name="app_name">JSON_DEMO</string>
+    
+    <color name="black">#000000</color>
+    <color name="silver">#9C9899</color>
+    <color name="orange">#FA6D20</color>
+	<color name="skin">#4386DE</color>
+    <color name="parot_green">#098576</color>
+    <color name="lightlist1">#B8D6F5</color>
+	<color name="lightlist2">#FCE1A2</color>
+</resources>
